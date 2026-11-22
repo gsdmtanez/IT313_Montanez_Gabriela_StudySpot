@@ -3,7 +3,7 @@
     "name": "IT313_Montanez_Gabriela_StudySpot",
     "slug": "IT313_Montanez_Gabriela_StudySpot",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
